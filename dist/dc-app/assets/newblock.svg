@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="200px" height="200px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 200 200" ><rect id="svgEditorBackground" x="0" y="0" width="200" height="200" style="fill:none;stroke:none;"/>
+
+ <defs>
+
+  <style type="text/css">
+   <![CDATA[
+    .fil6 {fill:url(#id6)}
+   ]]>
+  </style>
+  
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="55" y1="100" x2="145" y2="100">
+   <stop offset="0" style="stop-opacity:0.9; stop-color:#1997d4"/>
+   <stop offset="1" style="stop-opacity:0.9; stop-color:#00ffff"/>
+  </linearGradient>
+ 
+ </defs>
+
+  <g id="1">
+   <path class="fil6" stroke="#ffffff" d="M 55 150 L 100 125 L 145 150 L 100 175 Z" style="fill:#512DA8;"/>
+  </g>
+
+  <g id="4">
+   <path class="fil6" stroke="#ffffff" d="M 100 125 L 100 75 L 145 100 L 145 150 Z"/>
+  </g>
+
+  <g id="5">
+   <path class="fil6" stroke="#ffffff" d="M 55 100 L 100 75 L 100 125 L 55 150 Z" style="fill:#512DA8;"/>
+  </g>
+
+  <g id="2">
+   <path class="fil6" stroke="#ffffff" d="M54.999999999999986,98.79275653923541L54.999999999999986,148.7927565392354L99.99999999999999,173.7927565392354L99.99999999999999,123.79275653923541Z" style="fill:#512DA8;"/>
+  </g>
+
+  <g id="2_shade">
+    <path fill="#00000010" stroke="#ffffff00" d="M55,150v-50c0,0,6,50,45,75Z"/>
+  </g>
+
+  <g id="3">
+   <path class="fil6" stroke="#ffffff" d="M 100 175 L 145 150 L 145 100 L 100 125 Z" style="fill:#512DA8;"/>
+  </g>
+
+  <g id="3_shade">
+    <path fill="#ffffff30" stroke="#ffffff00" d="M145,100v50c0,0,-30,7,-45,-25Z"/>
+  </g>
+
+  <g id="6">
+  <path class="fil6" stroke="#ffffff" d="M 55 100 L 100 75 L 145 100 L 100 125 Z" style="fill:#512DA8;"/>
+   </g>
+
+  <g id="6_shade">
+    <path fill="#ffffff30" stroke="#ffffff00" d="M 145 100 L 100 75 c 0,0 20,20 0,50 z"/>
+  </g>
+
+</svg>

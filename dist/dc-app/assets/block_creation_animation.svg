@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200px" height="200px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 200 200"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+
+ <defs>
+
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:url(#id2)}
+    .fil2_shade {fill:url(#id2_shade)}
+    .fil3 {fill:url(#id3)}
+    .fil3_shade {fill:url(#id3_shade)}
+    .fil6 {fill:url(#id6)}
+    .fil6_shade {fill:url(#id6_shade)}
+   ]]>
+  </style>
+  
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="55" y1="150" x2="100" y2="125">
+   <stop offset="0" style="stop-opacity:0.9; stop-color:#1971d4"/>
+   <stop offset="1" style="stop-opacity:0.9; stop-color:#1997d4"/>
+  </linearGradient>
+  
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="100" y1="175" x2="145" y2="100">
+   <stop offset="0" style="stop-opacity:0.9; stop-color:#1997d4"/>
+   <stop offset="1" style="stop-opacity:0.9; stop-color:#00ffff"/>
+  </linearGradient>
+  
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="55" y1="100" x2="145" y2="100">
+   <stop offset="0" style="stop-opacity:0.9; stop-color:#1997d4"/>
+   <stop offset="1" style="stop-opacity:0.9; stop-color:#00ffff"/>
+  </linearGradient>
+ 
+ </defs>
+
+  <g id="1">
+   <path class="fil6" stroke="#ffffff" d="M 55 150 L 100 125 L 145 150 L 100 175 Z"/>
+  </g>
+
+  <g id="4">
+   <path class="fil6" stroke="#ffffff" d="M 100 125 L 145 100 L 190 125 L 145 150 Z">
+   <animate
+    attributeName = "d"
+    begin = "0.0s"
+    dur = "4s"
+    from = "M 100 125 L 145 100 L 190 125 L 145 150 Z"
+    to = "M 100 125 L 100 75 L 145 100 L 145 150 Z"
+    values = "M 100 125 L 145 100 L 190 125 L 145 150 Z;M 100 125 L 100 75 L 145 100 L 145 150 Z;M 100 125 L 100 75 L 145 100 L 145 150 Z"
+    />
+    </path>
+  </g>
+
+  <g id="5">
+   <path class="fil6" stroke="#ffffff" d="M 10 125 L 55 100 L 100 125 L 55 150 Z">
+   <animate
+    attributeName = "d"
+    begin = "0.0s"
+    dur = "4s"
+    from = "M 10 125 L 55 100 L 100 125 L 55 150 Z"
+    to = "M 55 100 L 100 75 L 100 125 L 55 150 Z"
+    values = "M 10 125 L 55 100 L 100 125 L 55 150 Z;M 55 100 L 100 75 L 100 125 L 55 150 Z;M 55 100 L 100 75 L 100 125 L 55 150 Z"
+    />
+    </path>
+  </g>
+
+  <g id="2">
+   <path class="fil6" stroke="#ffffff" d="M 10 175 L 55 150 L 100 175 L 55 200 Z">
+   <animate
+    attributeName = "d"
+    begin = "0.0s"
+    dur = "4s"
+    from = "M 10 175 L 55 150 L 100 175 L 55 200 Z"
+    to = "M 55 100 L 55 150 L 100 175 L 100 125 Z"
+    values = "M 10 175 L 55 150 L 100 175 L 55 200 Z;M 55 100 L 55 150 L 100 175 L 100 125 Z;M 55 100 L 55 150 L 100 175 L 100 125 Z"
+    />
+    </path>
+  </g>
+
+  <g id="2_shade">
+    <path fill="#00000000" stroke="#ffffff00" d="M 55 150 V 100 c 0,0 6,50 45,75 z">
+    <animate
+    attributeName = "fill"
+    begin = "0.0s"
+    dur = "5s"
+    to = "#00000010"
+    />
+    </path>
+  </g>
+
+  <g id="3">
+   <path class="fil6" stroke="#ffffff" d="M 100 175 L 145 150 L 190 175 L 145 200 Z">
+
+   <animate
+    attributeName = "d"
+    begin = "0.0s"
+    dur = "4s"
+    from = "M 100 175 L 145 150 L 190 175 L 145 200 Z"
+    to = "M 100 175 L 145 150 L 145 100 L 100 125 Z"
+    values = "M 100 175 L 145 150 L 190 175 L 145 200 Z;M 100 175 L 145 150 L 145 100 L 100 125 Z;M 100 175 L 145 150 L 145 100 L 100 125 Z"
+    />
+    </path>
+  </g>
+
+  <g id="3_shade">
+    <path fill="#ffffff00" stroke="#ffffff00" d="M 145 100 V 150 c 0,0 -30,7 -45,-25 z">
+    <animate
+    attributeName = "fill"
+    begin = "0.0s"
+    dur = "5s"
+    to = "#ffffff30"
+    />
+    </path>
+  </g>
+
+  <g id="6">
+  <path class="fil6" stroke="#ffffff" d="M 55 20 L 100 0 L 145 25 L 100 50 Z">    
+   <animate
+    attributeName = "d"
+    begin = "0.0s"
+    dur = "5s"
+    from = "M 55 25 L 100 0 L 145 25 L 100 50 Z"
+    to = "M 55 100 L 100 75 L 145 100 L 100 125 Z"
+    values = "M 55 25 L 100 0 L 145 25 L 100 50 Z;M 55 100 L 100 75 L 145 100 L 100 125 Z;M 55 100 L 100 75 L 145 100 L 100 125 Z"
+    />
+    </path>
+   </g>
+
+  <g id="6_shade">
+    <path fill="#ffffff00" stroke="#ffffff00" d="M 145 100 L 100 75 c 0,0 20,20 0,50 z">
+    <animate
+    attributeName = "fill"
+    begin = "0.0s"
+    dur = "5s"
+    to = "#ffffff30"
+    />
+    </path>
+  </g>
+
+</svg>
